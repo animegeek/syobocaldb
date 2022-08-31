@@ -23,13 +23,17 @@ jobs:
         ref: main
         fetch-depth: 0
     - name: Set up Go
-      uses: actions/setup-go@v1
+      uses: actions/setup-go@v3
       with:
         go-version: '1.18'
     - name: Build bin
       run: go install -v github.com/otiai10/syobocal@latest
+    - name: Env check
+      run: |
+        go env;
+        which syobocal
     - name: Run crawler
-      run: $GOPATH/bin/syobocal -db=./
+      run: syobocal -db=./
     - name: File check
       run: |
         pwd;
