@@ -27,9 +27,9 @@ jobs:
       with:
         go-version: '1.18'
     - name: Build bin
-      run: go install -v github.com/animegeek/syobocal/crawler@latest
+      run: go install -v github.com/animegeek/syobocal@latest
     - name: Run crawler
-      run: crawler -db=./
+      run: syobocal -db=./
     - name: File check
       run: |
         pwd;
