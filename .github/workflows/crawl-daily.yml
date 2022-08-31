@@ -29,7 +29,7 @@ jobs:
     - name: Build bin
       run: go install -v github.com/otiai10/syobocal@latest
     - name: Run crawler
-      run: syobocal -db=./
+      run: $GOPATH/bin/syobocal -db=./
     - name: File check
       run: |
         pwd;
