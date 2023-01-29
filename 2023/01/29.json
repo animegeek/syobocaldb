@@ -1,0 +1,3334 @@
+{
+  "context": {
+    "time": "2023-01-30T04:14:00.538294426+09:00",
+    "query": "http://cal.syoboi.jp/db.php?Command=TitleLookup&LastUpdate=20230129_040000-20230130_040000&TID=%2A",
+    "output": "/home/runner/work/syobocaldb/syobocaldb/2023/01/29.json"
+  },
+  "animes": [
+    {
+      "tid": 6524,
+      "title": "PUI PUI モルカー DRIVING SCHOOL",
+      "last_updated": "2023-01-29T14:37:33+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {
+        "アニメーション制作": [
+          "UchuPeople"
+        ],
+        "アニメーター": [
+          "小川翔大",
+          "高野真",
+          "三宅敦子",
+          "垣内由加利",
+          "当真一茂",
+          "阿部靖子",
+          "小西茉莉花"
+        ],
+        "原案・スーパーバイザー": [
+          "見里朝希"
+        ],
+        "監督・脚本・絵コンテ": [
+          "小野ハナ"
+        ],
+        "美術": [
+          "UchuPeople",
+          "アトリエKOCKA",
+          "パンタグラフ",
+          "スタジオビンゴ"
+        ],
+        "製作": [
+          "「PUI PUI モルカー DRIVING SCHOOL」製作委員会"
+        ],
+        "音楽": [
+          "小鷲翔太"
+        ],
+        "音響": [
+          "小沼則義"
+        ]
+      },
+      "cast": {
+        "声の出演": [
+          "見里瑞穂",
+          "山下タイキ",
+          "木内太郎",
+          "杉山里穂",
+          "河野茉莉",
+          "つむぎ(モルモット)",
+          "パイムータン(モルモット)"
+        ]
+      }
+    },
+    {
+      "tid": 4184,
+      "title": "侵略！ガルパンダZ",
+      "last_updated": "2023-01-29T15:53:03+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {
+        "プロデューサー": [
+          "荒木洋之",
+          "河崎実"
+        ],
+        "企画": [
+          "寺尾幸紘"
+        ],
+        "撮影監督": [
+          "佐々木雅史"
+        ],
+        "監督": [
+          "河崎実"
+        ],
+        "編集": [
+          "人見健太郎"
+        ],
+        "脚本": [
+          "海神える",
+          "河崎実"
+        ],
+        "製作": [
+          "トップ・マーシャル"
+        ],
+        "製作プロダクション": [
+          "リバートップ"
+        ],
+        "製作協力": [
+          "ZOOI/KMP"
+        ],
+        "音効・MA": [
+          "金子寛史"
+        ],
+        "音楽": [
+          "中村遼"
+        ]
+      },
+      "cast": {
+        "ガルパンダZ アヤカ": [
+          "友田彩也香"
+        ],
+        "ガルパンダZ キズナ": [
+          "佐倉絆"
+        ],
+        "ガルパンダZ リカ": [
+          "星美りか"
+        ],
+        "ナレーター": [
+          "木全直弘"
+        ]
+      }
+    },
+    {
+      "tid": 5501,
+      "title": "ポケットモンスター(2019)",
+      "last_updated": "2023-01-29T16:31:29+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "1・2・3",
+          "label": "オープニング",
+          "words": [
+            "まふまふ"
+          ],
+          "music": [
+            "まふまふ"
+          ],
+          "composer": [
+            "まふまふ"
+          ],
+          "singer": [
+            "After the Rain(そらる",
+            "まふまふ)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "1・2・3",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "まふまふ",
+            "田中秀和(MONACA)"
+          ],
+          "singer": [
+            "西川くんとキリショー(西川貴教",
+            "鬼龍院翔)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "1・2・3",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "APAZZI",
+            "Akira Sunset"
+          ],
+          "singer": [
+            "からあげ姉妹(生田絵梨花",
+            "松村沙友理)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "1・2・3",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "田中秀和"
+          ],
+          "singer": [
+            "サトシ＆ゴウ(松本梨香",
+            "山下大輝)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "ポケモンしりとり(ピカチュウ→ミュウVer.)",
+          "label": "エンディング",
+          "words": [
+            "パソコン音楽クラブ"
+          ],
+          "music": [
+            "パソコン音楽クラブ"
+          ],
+          "composer": [
+            "パソコン音楽クラブ"
+          ],
+          "singer": [
+            "ポケモン音楽クラブ(増田順一",
+            "パソコン音楽クラブ",
+            "ポケモンキッズ2019)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "ポケモンしりとり(ミュウ→ザマゼンタVer.)",
+          "label": "エンディング",
+          "words": [
+            "パソコン音楽クラブ"
+          ],
+          "music": [
+            "パソコン音楽クラブ"
+          ],
+          "composer": [
+            "パソコン音楽クラブ"
+          ],
+          "singer": [
+            "ポケモン音楽クラブ(増田順一",
+            "パソコン音楽クラブ",
+            "ポケモンキッズ2019)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "ふしぎなふしぎな生きもの",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "野村陽一郎"
+          ],
+          "singer": [
+            "トータス松本"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        },
+        {
+          "title": "バツグンタイプ",
+          "label": "エンディング",
+          "words": [
+            "パソコン音楽クラブ",
+            "ポケモンタイプ相性覚え隊"
+          ],
+          "music": [
+            "パソコン音楽クラブ"
+          ],
+          "composer": null,
+          "singer": [
+            "ポケモン音楽クラブ(増田順一",
+            "パソコン音楽クラブ",
+            "ポケモンキッズ2019)"
+          ],
+          "anime": "ポケットモンスター(2019)"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "OLM"
+        ],
+        "キャラクターデザイン": [
+          "安田周平"
+        ],
+        "クリエイティブスーパーバイザー": [
+          "湯山邦彦"
+        ],
+        "シリーズコンストラクション": [
+          "米村正二"
+        ],
+        "原案": [
+          "田尻智",
+          "増田順一",
+          "杉森建"
+        ],
+        "監督": [
+          "小平麻紀"
+        ],
+        "総監督": [
+          "冨安大貴"
+        ],
+        "美術監督": [
+          "武藤正敏"
+        ],
+        "製作": [
+          "テレビ東京",
+          "MEDIANET",
+          "ShoPro"
+        ],
+        "音楽": [
+          "林ゆうき"
+        ],
+        "音響監督": [
+          "三間雅文"
+        ]
+      },
+      "cast": {
+        "オーキド博士": [
+          "堀内賢雄"
+        ],
+        "コジロウ": [
+          "三木眞一郎"
+        ],
+        "コハル": [
+          "花澤香菜"
+        ],
+        "ゴウ": [
+          "山下大輝"
+        ],
+        "サクラギ博士": [
+          "中村悠一"
+        ],
+        "サトシ": [
+          "松本梨香"
+        ],
+        "ソーナンス": [
+          "うえだゆうじ"
+        ],
+        "ニャース": [
+          "犬山イヌコ"
+        ],
+        "ピカチュウ": [
+          "大谷育江"
+        ],
+        "ムサシ": [
+          "林原めぐみ"
+        ]
+      }
+    },
+    {
+      "tid": 6256,
+      "title": "デリシャスパーティ♡プリキュア",
+      "last_updated": "2023-01-29T17:59:10+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "Cheers!デリシャスパーティ♡プリキュア",
+          "label": "オープニング",
+          "words": [
+            "マイクスギヤマ"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "Machico"
+          ],
+          "anime": "デリシャスパーティ♡プリキュア"
+        },
+        {
+          "title": "DELICIOUS HAPPY DAYS♪",
+          "label": "エンディング",
+          "words": [
+            "こだまさおり"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "吉武千颯"
+          ],
+          "anime": "デリシャスパーティ♡プリキュア"
+        },
+        {
+          "title": "ココロデリシャス",
+          "label": "エンディング",
+          "words": [
+            "こだまさおり"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "佐々木李子"
+          ],
+          "anime": "デリシャスパーティ♡プリキュア"
+        },
+        {
+          "title": "ようこそ、お子さま♥ドリーミア",
+          "label": "エンディング",
+          "words": [
+            "大森祥子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "後本萌葉"
+          ],
+          "anime": "デリシャスパーティ♡プリキュア"
+        }
+      ],
+      "staff": {
+        "キャラクターデザイン": [
+          "油布京子"
+        ],
+        "シリーズディレクター": [
+          "深澤敏則"
+        ],
+        "シリーズ構成": [
+          "平林佐和子"
+        ],
+        "チーフ美術": [
+          "いいだりえ"
+        ],
+        "プロデューサー": [
+          "多田香奈子(ABCアニメーション)",
+          "矢﨑史(ADKエモーションズ)",
+          "安見香"
+        ],
+        "制作": [
+          "ABC",
+          "ABCアニメーション",
+          "ADKエモーションズ",
+          "東映アニメーション"
+        ],
+        "制作協力": [
+          "東映"
+        ],
+        "原作": [
+          "東堂いづみ"
+        ],
+        "掲載誌": [
+          "なかよし(講談社)",
+          "たのしい幼稚園",
+          "おともだち",
+          "他"
+        ],
+        "美術デザイン": [
+          "増田竜太郎"
+        ],
+        "色彩設計": [
+          "清田直美"
+        ],
+        "製作担当": [
+          "井桁啓介"
+        ],
+        "音楽": [
+          "寺田志保"
+        ]
+      },
+      "cast": {
+        "ウバウゾー、モットウバウゾー、ゴッソリウバウゾー": [
+          "堀総士郎"
+        ],
+        "クッキング": [
+          "鈴木琢磨"
+        ],
+        "クックイーン": [
+          "篠原恵美"
+        ],
+        "コメコメ": [
+          "高森奈津美"
+        ],
+        "ジェントルー／菓彩あまね／キュアフィナーレ": [
+          "茅野愛衣"
+        ],
+        "ジンジャー": [
+          "安原義人"
+        ],
+        "スピリットルー": [
+          "かぬか光明"
+        ],
+        "セクレトルー": [
+          "木下紗華"
+        ],
+        "セルフィーユ": [
+          "津田美波"
+        ],
+        "ソラ・ハレワタール／キュアスカイ": [
+          "関根明良"
+        ],
+        "ナルシストルー": [
+          "阪口周平"
+        ],
+        "パムパム": [
+          "日岡なつみ"
+        ],
+        "フェンネル／ゴーダッツ": [
+          "三上哲"
+        ],
+        "メンメン": [
+          "半場友恵"
+        ],
+        "レシピッピ": [
+          "島袋美由利",
+          "河村梨恵",
+          "長谷川育美"
+        ],
+        "ローズマリー": [
+          "前野智昭"
+        ],
+        "和実あきほ": [
+          "中村千絵",
+          "恒松あゆみ(#39～)"
+        ],
+        "和実ひかる": [
+          "木内秀信"
+        ],
+        "和実ゆい／キュアプレシャス": [
+          "菱川花菜"
+        ],
+        "品田あん": [
+          "大西沙織"
+        ],
+        "品田拓海": [
+          "内田雄馬"
+        ],
+        "品田門平／シナモン": [
+          "池田鉄洋"
+        ],
+        "実実よね／ナレーション": [
+          "宮崎美子"
+        ],
+        "美羽しょうせい": [
+          "中野泰祐"
+        ],
+        "美羽はつこ": [
+          "行成とあ"
+        ],
+        "芙羽ここね／キュアスパイシー": [
+          "清水理沙"
+        ],
+        "菓彩しょうせい": [
+          "中野泰佑"
+        ],
+        "菓彩ぼたん": [
+          "進藤尚美"
+        ],
+        "菓彩ゆあん、菓彩みつき": [
+          "宮田俊哉(Kis-My-Ft2)"
+        ],
+        "華満こしのすけ": [
+          "斧アツシ"
+        ],
+        "華満つるね": [
+          "小林愛"
+        ],
+        "華満らん／キュアヤムヤム": [
+          "井口裕香"
+        ],
+        "華満りん": [
+          "河村梨恵"
+        ],
+        "華満るん": [
+          "山口茜"
+        ],
+        "轟": [
+          "樫井笙人"
+        ]
+      }
+    },
+    {
+      "tid": 6614,
+      "title": "ひろがるスカイ！プリキュア",
+      "last_updated": "2023-01-29T18:00:52+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "ひろがるスカイ！プリキュア ～Hero Girls～",
+          "label": "オープニング",
+          "words": [
+            "青木久美子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "石井あみ"
+          ],
+          "anime": "ひろがるスカイ！プリキュア"
+        },
+        {
+          "title": "ヒロガリズム",
+          "label": "エンディング",
+          "words": [
+            "六ツ見純代"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "石井あみ",
+            "吉武千颯"
+          ],
+          "anime": "ひろがるスカイ！プリキュア"
+        }
+      ],
+      "staff": {
+        "キャラクターデザイン": [
+          "斎藤敦史"
+        ],
+        "シリーズディレクター": [
+          "小川孝治"
+        ],
+        "シリーズ構成": [
+          "金月龍之介"
+        ],
+        "チーフ美術": [
+          "門口亜矢"
+        ],
+        "プロデューサー": [
+          "田中昂(ABCアニメーション)",
+          "利根里佳(ADKエモーションズ)",
+          "鷲尾天",
+          "髙橋麻樹"
+        ],
+        "制作": [
+          "ABC",
+          "ABCアニメーション",
+          "ADKエモーションズ",
+          "東映アニメーション"
+        ],
+        "制作協力": [
+          "東映"
+        ],
+        "原作": [
+          "東堂いづみ"
+        ],
+        "美術デザイン": [
+          "今井美紀"
+        ],
+        "色彩設計": [
+          "柳澤久美子"
+        ],
+        "音楽": [
+          "深澤恵梨香"
+        ]
+      },
+      "cast": {
+        "エルちゃん": [
+          "古賀葵"
+        ],
+        "ソラ・ハレワタール／キュアスカイ": [
+          "関根明良"
+        ],
+        "虹ヶ丘ましろ／キュアプリズム": [
+          "加隈亜衣"
+        ]
+      }
+    },
+    {
+      "tid": 6432,
+      "title": "仮面ライダーギーツ",
+      "last_updated": "2023-01-29T18:35:17+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "Trust・Last",
+          "label": "オープニング",
+          "words": [
+            "藤林聖子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "倖田來未",
+            "湘南乃風"
+          ],
+          "anime": "仮面ライダーギーツ"
+        }
+      ],
+      "staff": {
+        "アクション監督": [
+          "藤田慧(ジャパンアクションエンタープライズ)"
+        ],
+        "プロデューサー": [
+          "井上千尋(テレビ朝日)",
+          "武部直美(東映)"
+        ],
+        "制作": [
+          "テレビ朝日",
+          "東映",
+          "ADK EM"
+        ],
+        "原作": [
+          "石ノ森章太郎"
+        ],
+        "特撮監督": [
+          "佛田洋(特撮研究所)"
+        ],
+        "監督": [
+          "中澤祥次郎",
+          "杉原輝昭"
+        ],
+        "脚本": [
+          "高橋悠也"
+        ],
+        "音楽": [
+          "佐橋俊彦"
+        ]
+      },
+      "cast": {
+        "アルキメデル": [
+          "春海四方"
+        ],
+        "ギロリ": [
+          "忍成修吾"
+        ],
+        "サマス": [
+          "安田聖愛"
+        ],
+        "ジョン": [
+          "トム・コンスタンタイン"
+        ],
+        "ジーン": [
+          "鈴木福"
+        ],
+        "ツムリ": [
+          "青島心"
+        ],
+        "ナレーション": [
+          "塩野潤二"
+        ],
+        "ニラム": [
+          "北村諒"
+        ],
+        "ベン": [
+          "マイケル・K"
+        ],
+        "吾妻道長": [
+          "杢代和人"
+        ],
+        "桜井景和": [
+          "佐藤瑠雅"
+        ],
+        "櫻井沙羅": [
+          "志田音々"
+        ],
+        "浮世英寿": [
+          "簡秀吉"
+        ],
+        "鞍馬祢音": [
+          "星乃夢奈"
+        ]
+      }
+    },
+    {
+      "tid": 350,
+      "title": "ワンピース",
+      "last_updated": "2023-01-29T18:59:26+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {
+        "企画": [
+          "松崎容子",
+          "清水慎治"
+        ],
+        "作画監督": [
+          "小泉昇",
+          "井手武生",
+          "横山健治",
+          "井上栄作",
+          "久田和也",
+          "館直樹",
+          "真庭秀明",
+          "高木雅之",
+          "木下勇喜"
+        ],
+        "原作": [
+          "尾田栄一郎"
+        ],
+        "掲載誌": [
+          "週刊少年ジャンプ(集英社)"
+        ],
+        "演出": [
+          "宇田鋼之介",
+          "志水淳児",
+          "門田英彦",
+          "藤瀬順一",
+          "境宗久",
+          "池田洋子",
+          "小山賢",
+          "角胴博之",
+          "所勝美",
+          "貝沢幸男",
+          "今村隆寛"
+        ],
+        "脚本": [
+          "武上純希",
+          "島田満",
+          "菅良幸"
+        ],
+        "製作担当": [
+          "藤岡和実"
+        ]
+      },
+      "cast": {
+        "ウソップ": [
+          "山口勝平"
+        ],
+        "サンジ": [
+          "平田広明"
+        ],
+        "チョッパー": [
+          "大谷育江",
+          "伊倉一恵(#254～#263)"
+        ],
+        "ナミ": [
+          "岡村明美",
+          "山崎和佳奈(#70～#78)"
+        ],
+        "ニコ・ロビン": [
+          "山口由里子",
+          "小林優子(#299～#319)"
+        ],
+        "フランキー": [
+          "矢尾一樹"
+        ],
+        "ブルック": [
+          "チョー"
+        ],
+        "モンキー・D・ルフィ": [
+          "田中真弓"
+        ],
+        "ロロノア・ゾロ": [
+          "中井和哉"
+        ]
+      }
+    },
+    {
+      "tid": 6274,
+      "title": "暴太郎戦隊ドンブラザーズ",
+      "last_updated": "2023-01-29T18:59:27+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "俺こそオンリーワン",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "MORISAKI WIN"
+          ],
+          "anime": "暴太郎戦隊ドンブラザーズ"
+        },
+        {
+          "title": "Don't Boo! ドンブラザーズ",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "MORISAKI WIN"
+          ],
+          "anime": "暴太郎戦隊ドンブラザーズ"
+        }
+      ],
+      "staff": {
+        "アクション監督": [
+          "福沢博文"
+        ],
+        "キャラクターデザイン": [
+          "篠原保"
+        ],
+        "プロデューサー": [
+          "井上千尋(テレビ朝日)",
+          "白倉伸一郎(東映)",
+          "武部直美(東映)",
+          "矢田晃一(東映エージエンシー)",
+          "深田明宏(東映エージエンシー)"
+        ],
+        "制作": [
+          "テレビ朝日",
+          "東映",
+          "東映エージエンシー"
+        ],
+        "原作": [
+          "八手三郎"
+        ],
+        "特撮監督": [
+          "佛田洋(特撮研究所)"
+        ],
+        "監督": [
+          "田﨑竜太"
+        ],
+        "脚本": [
+          "井上敏樹"
+        ],
+        "連載": [
+          "テレビマガジン",
+          "てれびくん"
+        ],
+        "音楽": [
+          "山下康介"
+        ]
+      },
+      "cast": {
+        "イヌブラザー／犬塚翼": [
+          "柊太朗"
+        ],
+        "オニシスター／鬼頭はるか": [
+          "志田こはく"
+        ],
+        "キジブラザー／雉野つよし": [
+          "鈴木浩文"
+        ],
+        "サルブラザー／猿原真一": [
+          "別府由来"
+        ],
+        "ゼンカイザーブラック／五色田介人": [
+          "駒木根葵汰"
+        ],
+        "ソノイ": [
+          "富永勇也"
+        ],
+        "ソノザ": [
+          "タカハシシンノスケ"
+        ],
+        "ソノニ": [
+          "宮崎あみさ"
+        ],
+        "ドンドラゴクウ／ドントラボルト／桃谷ジロウ": [
+          "石川雷蔵"
+        ],
+        "ドンブラスター音声": [
+          "濱野大輝"
+        ],
+        "ドンムラサメ": [
+          "村瀬歩"
+        ],
+        "ドンモモタロウ／桃井タロウ": [
+          "樋口幸平"
+        ],
+        "マザー": [
+          "能登麻美子"
+        ],
+        "桃井陣": [
+          "和田聰宏"
+        ],
+        "雉野みほ／夏美": [
+          "新田桃子"
+        ],
+        "龍虎之戟音声": [
+          "朴璐美"
+        ]
+      }
+    },
+    {
+      "tid": 6619,
+      "title": "火狩りの王",
+      "last_updated": "2023-01-29T20:44:02+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {},
+      "cast": null
+    },
+    {
+      "tid": 6310,
+      "title": "遊☆戯☆王ゴーラッシュ!!",
+      "last_updated": "2023-01-30T00:42:11+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "蜃気楼",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "遊☆戯☆王ゴーラッシュ!!"
+        },
+        {
+          "title": "One Way",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "遊☆戯☆王ゴーラッシュ!!"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "ブリッジ"
+        ],
+        "キャラクターデザイン": [
+          "只野和子",
+          "松下浩美"
+        ],
+        "シリーズ構成": [
+          "竹内利光"
+        ],
+        "デュエル構成": [
+          "彦久保雅博"
+        ],
+        "副監督": [
+          "橋本直人"
+        ],
+        "原作": [
+          "「遊☆戯☆王」(集英社 ジャンプコミックス)"
+        ],
+        "監督": [
+          "近藤信宏"
+        ],
+        "製作": [
+          "遊☆戯☆王ゴーラッシュ!!製作委員会",
+          "テレビ東京"
+        ],
+        "音響監督": [
+          "山本浩司"
+        ]
+      },
+      "cast": {
+        "ズウィージョウ": [
+          "江口拓也"
+        ],
+        "ニャンデスター": [
+          "ファイルーズあい"
+        ],
+        "ユウディアス・ベルギャー": [
+          "ランズベリー・アーサー"
+        ],
+        "王道遊歩": [
+          "福島香々"
+        ],
+        "王道遊飛": [
+          "熊谷俊輝"
+        ],
+        "蒼月マナブ": [
+          "花江夏樹"
+        ]
+      }
+    },
+    {
+      "tid": 6431,
+      "title": "デュエル・マスターズ WIN",
+      "last_updated": "2023-01-30T00:43:03+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "Step Up",
+          "label": "オープニング",
+          "words": [
+            "JUNE"
+          ],
+          "music": [
+            "JUNE",
+            "Ethan Augustin"
+          ],
+          "composer": [
+            "Ethan Augustin"
+          ],
+          "singer": [
+            "ONE N' ONLY"
+          ],
+          "anime": "デュエル・マスターズ WIN"
+        },
+        {
+          "title": "WINNING ROAD",
+          "label": "エンディング",
+          "words": [
+            "上月せれな",
+            "柿沼雅美"
+          ],
+          "music": [
+            "橋本佐紀"
+          ],
+          "composer": [
+            "水島康貴"
+          ],
+          "singer": [
+            "上月せれな"
+          ],
+          "anime": "デュエル・マスターズ WIN"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "ブレインズ・ベース",
+          "小学館ミュージック＆デジタル エンタテイメント"
+        ],
+        "キャラクターデザイン・総作画監督": [
+          "越貴文"
+        ],
+        "クリーチャー設計・プロップデザイン": [
+          "小川浩"
+        ],
+        "シリーズ構成": [
+          "加藤陽一"
+        ],
+        "撮影監督": [
+          "藤野祐介"
+        ],
+        "監督": [
+          "鈴木裕輔"
+        ],
+        "編集": [
+          "池田康隆"
+        ],
+        "美術監督": [
+          "明石聖子"
+        ],
+        "色彩設計": [
+          "福田由布子"
+        ],
+        "製作": [
+          "テレビ東京",
+          "小学館集英社プロダクション"
+        ],
+        "音楽": [
+          "五十嵐“IGAO”淳一"
+        ],
+        "音楽制作": [
+          "小学館ミュージック＆デジタル エンタテイメント"
+        ],
+        "音響制作": [
+          "HALF H・P STUDIO"
+        ],
+        "音響監督": [
+          "高寺たけし"
+        ]
+      },
+      "cast": {
+        "カレン": [
+          "大久保瑠美"
+        ],
+        "パパリン(斬札ガッツ)": [
+          "菅原雅芳"
+        ],
+        "プリンス・カイザ": [
+          "阿座上洋平"
+        ],
+        "斬札ウィン": [
+          "鵜澤正太郎"
+        ],
+        "源さん": [
+          "大畑伸太郎"
+        ],
+        "覚知山ボウイ": [
+          "河瀬茉希"
+        ],
+        "邪神くん": [
+          "羽多野渉"
+        ]
+      }
+    },
+    {
+      "tid": 6154,
+      "title": "デジモンゴーストゲーム",
+      "last_updated": "2023-01-30T00:43:36+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "FACTION",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "Wienners"
+          ],
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "ペダル",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "だって今日まで恋煩い",
+          "label": "エンディング",
+          "words": [
+            "Chinozo"
+          ],
+          "music": [
+            "Chinozo"
+          ],
+          "composer": [
+            "Chinozo"
+          ],
+          "singer": [
+            "BMK"
+          ],
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "ひかりあうものたち",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "モンスターディスコ",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "ヒャダイン"
+          ],
+          "singer": [
+            "スガシカオ",
+            "ヒャダイン"
+          ],
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "STRAWBERRY",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "デジモンゴーストゲーム"
+        },
+        {
+          "title": "Take Me Maybe",
+          "label": "エンディング",
+          "words": null,
+          "music": [
+            "浪岡真太郎"
+          ],
+          "composer": null,
+          "singer": null,
+          "anime": "デジモンゴーストゲーム"
+        }
+      ],
+      "staff": {
+        "キャラクターデザイン": [
+          "いとうまりこ"
+        ],
+        "キャラクター原案": [
+          "やぶのてんや"
+        ],
+        "シリーズディレクター": [
+          "地岡公俊",
+          "三塚雅人"
+        ],
+        "シリーズ構成": [
+          "十川誠志"
+        ],
+        "デジモンキャラクターデザイン": [
+          "篠塚超"
+        ],
+        "デジモンキャラクター原案": [
+          "渡辺けんじ"
+        ],
+        "企画協力": [
+          "やぶのてんや",
+          "井沢ひろし"
+        ],
+        "制作": [
+          "フジテレビ",
+          "読売広告社",
+          "東映アニメーション"
+        ],
+        "原案": [
+          "本郷あきよし"
+        ],
+        "美術監督": [
+          "市岡茉衣(美峰)"
+        ],
+        "美術設定": [
+          "天田俊貴(美峰)"
+        ],
+        "音楽": [
+          "大谷幸"
+        ]
+      },
+      "cast": {
+        "アンゴラモン": [
+          "中井和哉"
+        ],
+        "エスピモン": [
+          "小林由美子"
+        ],
+        "ガンマモン": [
+          "沢城みゆき"
+        ],
+        "ゴーストナビゲーター": [
+          "竹中直人"
+        ],
+        "ジェリーモン": [
+          "嶋村侑"
+        ],
+        "リュウダモン": [
+          "菊池正美"
+        ],
+        "天ノ河宙": [
+          "田村睦心"
+        ],
+        "月夜野瑠璃": [
+          "小林ゆう"
+        ],
+        "東御手洗清司郎": [
+          "石田彰"
+        ]
+      }
+    },
+    {
+      "tid": 6303,
+      "title": "キャップ革命 ボトルマンDX",
+      "last_updated": "2023-01-30T00:46:31+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "レディキャップ！",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "キャップ革命 ボトルマンDX"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "ガイナ"
+        ],
+        "キャラクターデザイン・総作画監督": [
+          "小野早香"
+        ],
+        "シリーズ構成・脚本": [
+          "Qualia Writers Inc.",
+          "山本カズヨシ"
+        ],
+        "助監督": [
+          "球野たかひろ"
+        ],
+        "原作": [
+          "タカラトミー"
+        ],
+        "監督": [
+          "川崎逸朗"
+        ],
+        "製作": [
+          "テレビ大阪",
+          "ガイナ"
+        ]
+      },
+      "cast": {
+        "アップ奈々": [
+          "松井恵理子"
+        ],
+        "宇佐美セイメイ": [
+          "奈良徹"
+        ],
+        "帆狩イオ": [
+          "速水奨"
+        ],
+        "帆狩スエゾウ": [
+          "黒田崇矢"
+        ],
+        "帆狩リョウ": [
+          "KENN"
+        ],
+        "甲賀コータ": [
+          "平田真菜"
+        ],
+        "葉加瀬カオリ": [
+          "関根明良"
+        ],
+        "赤牛ツバサ": [
+          "木村昴"
+        ]
+      }
+    },
+    {
+      "tid": 6499,
+      "title": "ぷにるんず",
+      "last_updated": "2023-01-30T00:47:07+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {
+        "アニメーション制作": [
+          "OLM Digital"
+        ],
+        "キャラクターデザイン": [
+          "一石小百合"
+        ],
+        "シリーズ構成": [
+          "市川十億衛門"
+        ],
+        "原作": [
+          "タカラトミー"
+        ],
+        "監督": [
+          "山口健太郎"
+        ],
+        "総監督": [
+          "湯山邦彦"
+        ],
+        "製作": [
+          "テレビ大阪",
+          "電通",
+          "OLM"
+        ],
+        "音楽": [
+          "小畑貴裕"
+        ],
+        "音響監督": [
+          "小沼則義"
+        ]
+      },
+      "cast": {
+        "あいるん": [
+          "潘めぐみ"
+        ],
+        "うるるん": [
+          "山口智広"
+        ],
+        "えねるん": [
+          "小松未可子"
+        ],
+        "くーるん": [
+          "木野日菜"
+        ],
+        "ゆか": [
+          "谷口夢奈"
+        ],
+        "らぶるん": [
+          "内田彩"
+        ],
+        "ナレーション": [
+          "小野大輔"
+        ]
+      }
+    },
+    {
+      "tid": 4546,
+      "title": "BORUTO-ボルト- NARUTO NEXT GENERATIONS",
+      "last_updated": "2023-01-30T03:38:48+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "バトンロード",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Over",
+          "label": "オープニング",
+          "words": [
+            "KOUDAI IWATSUBO"
+          ],
+          "music": [
+            "KEN for 2SOUL MUSIC Inc.",
+            "Philip Woo",
+            "Kyte"
+          ],
+          "composer": [
+            "KEN for 2SOUL MUSIC Inc."
+          ],
+          "singer": [
+            "Little Glee Monster"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "It's all the game",
+          "label": "オープニング",
+          "words": [
+            "Qyoto",
+            "+d"
+          ],
+          "music": [
+            "Qyoto",
+            "風麻",
+            "+d"
+          ],
+          "composer": [
+            "Qyoto",
+            "鶴澤夢人",
+            "+d"
+          ],
+          "singer": [
+            "Qyoto"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Lonely Go!",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "Brian the Sun",
+            "江口亮"
+          ],
+          "singer": [
+            "Brian the Sun"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ゴールデンタイム",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ティーンエイジドリーム",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "NAOKI-T"
+          ],
+          "singer": [
+            "miwa"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "はじまっていく たかまっていく",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "BAKU",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "江口亮"
+          ],
+          "singer": [
+            "いきものがかり"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "我武者羅",
+          "label": "オープニング",
+          "words": [
+            "HoneyWorks"
+          ],
+          "music": [
+            "HoneyWorks"
+          ],
+          "composer": [
+            "HoneyWorks"
+          ],
+          "singer": [
+            "CHiCO with HoneyWorks"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "GOLD",
+          "label": "オープニング",
+          "words": [
+            "KOHSHI ASAKAWA"
+          ],
+          "music": [
+            "TAKESHI ASAKAWA"
+          ],
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "きらりらり",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "宿縁",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "ASIAN KUNG-FU GENERATION"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ドリーミージャーニー",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "the peggies",
+            "大久保友裕"
+          ],
+          "singer": [
+            "the peggies"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "サヨナラムーンタウン",
+          "label": "エンディング",
+          "words": [
+            "ハヤシコウスケ"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "僕は走り続ける",
+          "label": "エンディング",
+          "words": [
+            "MELOFOAT"
+          ],
+          "music": [
+            "Gouyal"
+          ],
+          "composer": [
+            "Yoichiro Nomura"
+          ],
+          "singer": [
+            "メロフロート"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "デンシンタマシイ",
+          "label": "エンディング",
+          "words": null,
+          "music": [
+            "せらみかる "
+          ],
+          "composer": [
+            "ゲーム実況者わくわくバンド",
+            "黒沢ダイスケ"
+          ],
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "花鳥風月",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "小幡真裕"
+          ],
+          "singer": [
+            "コアラモード"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ライカ",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ポラリス",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "強がりLOSER",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "渡辺拓也",
+            "Ryoko"
+          ],
+          "singer": [
+            "ЯeaL"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Ride or Die",
+          "label": "エンディング",
+          "words": null,
+          "music": [
+            "宮川拓",
+            "スカイピース  "
+          ],
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "未完成な光たち",
+          "label": "エンディング",
+          "words": [
+            "H.Aoba"
+          ],
+          "music": [
+            "H.Aoba",
+            "N.Sasaki"
+          ],
+          "composer": [
+            "佐々木望"
+          ],
+          "singer": [
+            "福原遥"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Wish on",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Fireworks",
+          "label": "エンディング",
+          "words": [
+            "JUDAI",
+            "柴山慧"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "Flowback"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Maybe I",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "シライシ紗トリ",
+            "Seven Billion Dots"
+          ],
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "セントラル",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "柿澤秀吉(秀吉)"
+          ],
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Answers",
+          "label": "エンディング",
+          "words": [
+            "武市和希"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "キミがいたしるし",
+          "label": "エンディング",
+          "words": [
+            "宮嶋淳子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "halca"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Who are you?",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Prologue",
+          "label": "エンディング",
+          "words": [
+            "Yohei",
+            "UTA"
+          ],
+          "music": [
+            "UTA"
+          ],
+          "composer": [
+            "UTA for TinyVoice,Production"
+          ],
+          "singer": [
+            "JO1"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "VOLTAGE",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "Louis(Natural Lag)",
+            "MEG.ME"
+          ],
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "トワイライト・ファズ",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "ビボウロク",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "Lenny code fiction",
+            "江口亮"
+          ],
+          "singer": [
+            "Lenny code fiction"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "Ladder",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "クレハリュウイチ",
+            "TomoLow"
+          ],
+          "singer": null,
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        },
+        {
+          "title": "またね",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "ハンブレッダーズ"
+          ],
+          "anime": "BORUTO-ボルト- NARUTO NEXT GENERATIONS"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "studioぴえろ"
+        ],
+        "キャラクターデザイン": [
+          "西尾鉄也",
+          "鈴木博文"
+        ],
+        "シリーズ構成": [
+          "上江洲誠"
+        ],
+        "ストーリー監修": [
+          "小太刀右京"
+        ],
+        "原作": [
+          "「BORUTO-ボルト- -NARUTO NEXT GENERATIONS-」岸本斉史(原作・監修)",
+          "池本幹雄(漫画)",
+          "小太刀右京(脚本)"
+        ],
+        "掲載誌": [
+          "週刊少年ジャンプ(集英社)"
+        ],
+        "撮影監督": [
+          "増野真衣"
+        ],
+        "監督": [
+          "山下宏幸"
+        ],
+        "総監督": [
+          "阿部記之"
+        ],
+        "美術監督": [
+          "上野秀行"
+        ],
+        "色彩設計": [
+          "今村友栄"
+        ],
+        "製作": [
+          "テレビ東京",
+          "ぴえろ"
+        ],
+        "音楽": [
+          "高梨康治",
+          "刃-yaiba-"
+        ],
+        "音響制作": [
+          "楽音舎"
+        ],
+        "音響監督": [
+          "名倉靖"
+        ]
+      },
+      "cast": {
+        "うずまきナルト": [
+          "竹内順子"
+        ],
+        "うずまきヒナタ": [
+          "水樹奈々"
+        ],
+        "うずまきヒマワリ": [
+          "早見沙織"
+        ],
+        "うずまきボルト": [
+          "三瓶由布子"
+        ],
+        "うちはサラダ": [
+          "菊池こころ"
+        ],
+        "アマド": [
+          "大塚明夫"
+        ],
+        "カワキ": [
+          "内田雄馬"
+        ],
+        "コード": [
+          "寺島惇太"
+        ],
+        "ジゲン": [
+          "津田健次郎"
+        ],
+        "デルタ": [
+          "桑島法子"
+        ],
+        "ボロ": [
+          "三宅健太"
+        ],
+        "ミツキ": [
+          "木島隆一"
+        ],
+        "ヴィクタ": [
+          "チョー"
+        ],
+        "奈良シカダイ": [
+          "小野賢章"
+        ],
+        "奈良シカマル": [
+          "森久保祥太郎"
+        ],
+        "山中いのじん": [
+          "阿部敦"
+        ],
+        "果心居士": [
+          "中村悠一"
+        ],
+        "油女シノ": [
+          "川田紳司"
+        ],
+        "猿飛木ノ葉丸": [
+          "高橋英則"
+        ],
+        "秋道チョウチョウ": [
+          "白石涼子"
+        ]
+      }
+    },
+    {
+      "tid": 4896,
+      "title": "パズドラ",
+      "last_updated": "2023-01-30T03:41:42+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "Everybody GO!",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "泊明日菜"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "ハレルヤルーヤ",
+          "label": "オープニング",
+          "words": [
+            "Koudai Iwatsubo"
+          ],
+          "music": [
+            "Koudai Iwatsubo",
+            "GRP"
+          ],
+          "composer": null,
+          "singer": [
+            "横山だいすけ"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "▶START",
+          "label": "エンディング",
+          "words": [
+            "魔法少女になり隊",
+            "あだるとゆうくん"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "魔法少女になり隊"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "トロイメライ",
+          "label": "エンディング",
+          "words": [
+            "火寺バジル",
+            "gari"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "魔法少女になり隊"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "スマッシュ・ドロップ",
+          "label": "エンディング",
+          "words": [
+            "宮嶋淳子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "麻倉もも"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "GET OVER",
+          "label": "エンディング",
+          "words": [
+            "Mashiro",
+            "宇田川生"
+          ],
+          "music": [
+            "宇田川生"
+          ],
+          "composer": [
+            "KOUTAPAI"
+          ],
+          "singer": [
+            "綾野ましろ"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "フレンドシップNo.1",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "sorato"
+          ],
+          "singer": [
+            "ミサキクレア from Girls²"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "PEACE!!!",
+          "label": "エンディング",
+          "words": [
+            "春奈るな",
+            "大塚利恵"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "春奈るな"
+          ],
+          "anime": "パズドラ"
+        },
+        {
+          "title": "MATSURI!",
+          "label": "エンディング",
+          "words": null,
+          "music": [
+            "和田薫"
+          ],
+          "composer": null,
+          "singer": null,
+          "anime": "パズドラ"
+        },
+        {
+          "title": "パズドラマーチ",
+          "label": "エンディング",
+          "words": null,
+          "music": [
+            "和田薫"
+          ],
+          "composer": null,
+          "singer": null,
+          "anime": "パズドラ"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "studioぴえろ"
+        ],
+        "シリーズ構成": [
+          "藤田伸三"
+        ],
+        "原作": [
+          "ガンホー・オンライン・エンターテイメント"
+        ],
+        "原案": [
+          "森下一喜"
+        ],
+        "掲載誌": [
+          "月刊コロコロコミック(小学館)"
+        ],
+        "漫画原作": [
+          "井上桃太"
+        ],
+        "監督": [
+          "亀垣一"
+        ],
+        "製作": [
+          "パスドラプロジェクト(テレビ東京",
+          "電通",
+          "ぴえろ)"
+        ]
+      },
+      "cast": {
+        "トラゴン": [
+          "柿原徹也"
+        ],
+        "パズドラ部顧問": [
+          "長田庄平(チョコレートプラネット)"
+        ],
+        "卯月さくら": [
+          "井上ほの花"
+        ],
+        "徳澤諭吉": [
+          "神代知衣"
+        ],
+        "明石タイガ": [
+          "泊明日菜"
+        ],
+        "松原龍二": [
+          "小林裕介"
+        ],
+        "部員": [
+          "貴島明日香"
+        ]
+      }
+    },
+    {
+      "tid": 6486,
+      "title": "不滅のあなたへ Season2",
+      "last_updated": "2023-01-30T05:12:30+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "PINK BLOOD",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "不滅のあなたへ Season2"
+        },
+        {
+          "title": "Roots",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "不滅のあなたへ Season2"
+        }
+      ],
+      "staff": {
+        "アニメーション制作": [
+          "ドライブ"
+        ],
+        "キャラクターデザイン": [
+          "薮野浩二"
+        ],
+        "シリーズ構成": [
+          "藤田伸三"
+        ],
+        "制作": [
+          "NHKエンタープライズ"
+        ],
+        "制作・著作": [
+          "NHK"
+        ],
+        "原作": [
+          "大今良時"
+        ],
+        "監督": [
+          "佐山聖子"
+        ],
+        "音楽": [
+          "川﨑龍"
+        ],
+        "音響監督": [
+          "高寺たけし"
+        ]
+      },
+      "cast": {
+        "アルメ": [
+          "下屋則子"
+        ],
+        "アンナ": [
+          "下地紫野"
+        ],
+        "ウガ": [
+          "陣谷遥"
+        ],
+        "エコ": [
+          "広橋涼"
+        ],
+        "カイ・レナルド・ロウル": [
+          "加瀬康之"
+        ],
+        "カハク、ナレーション": [
+          "斎賀みつき"
+        ],
+        "カム": [
+          "落合福嗣"
+        ],
+        "グーグー": [
+          "八代拓"
+        ],
+        "サイリーラ": [
+          "宮本充"
+        ],
+        "サンデル": [
+          "興津和幸"
+        ],
+        "セバス": [
+          "沢城千春"
+        ],
+        "セラ": [
+          "福原綾香"
+        ],
+        "チャボ": [
+          "依田菜津"
+        ],
+        "トド(アイリス)": [
+          "渡辺明乃"
+        ],
+        "トナリ": [
+          "稲川英里"
+        ],
+        "トルタ": [
+          "潘めぐみ"
+        ],
+        "ニクソン": [
+          "吉野裕行"
+        ],
+        "ハイロ・リッチ": [
+          "石川界人"
+        ],
+        "ヒサメ": [
+          "楠木ともり"
+        ],
+        "ピオラン": [
+          "愛河里花子"
+        ],
+        "フェン": [
+          "かぬか光明"
+        ],
+        "フシ": [
+          "川島零士"
+        ],
+        "ボンシェン・ニコリ・ラ・テイスティピーチ＝ウラリス": [
+          "子安武人"
+        ],
+        "ポコア": [
+          "古賀葵"
+        ],
+        "マーチ": [
+          "引坂理絵"
+        ],
+        "メサール・ロビン・バスタル": [
+          "宮下栄治"
+        ],
+        "ユイス": [
+          "関根明良"
+        ],
+        "国王": [
+          "宇垣秀成"
+        ],
+        "王妃": [
+          "日笠陽子"
+        ],
+        "観察者": [
+          "津田健次郎"
+        ],
+        "領主": [
+          "こばたけまさふみ"
+        ]
+      }
+    },
+    {
+      "tid": 6593,
+      "title": "セブンボイスミュージアム 名画と7人の巨匠たち",
+      "last_updated": "2023-01-30T06:28:17+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {
+        "制作": [
+          "10+4"
+        ],
+        "著作": [
+          "大塚国際美術館"
+        ]
+      },
+      "cast": {
+        "原田無口": [
+          "佐藤拓也"
+        ],
+        "山側利夢叶": [
+          "竹内良太"
+        ],
+        "木村レオ": [
+          "土屋神葉"
+        ],
+        "田中蘭太朗": [
+          "千葉翔也"
+        ],
+        "福池萌音": [
+          "榊原優希"
+        ],
+        "荒田ひかり": [
+          "蒼井翔太"
+        ],
+        "藤田業穂": [
+          "畠中祐"
+        ],
+        "館長": [
+          "オラキオ"
+        ]
+      }
+    },
+    {
+      "tid": 6451,
+      "title": "SPY×FAMILY(第2クール)",
+      "last_updated": "2023-01-30T07:25:05+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "SOUVENIR",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "BUMP OF CHICKEN",
+            "MOR"
+          ],
+          "singer": [
+            "BUMP OF CHICKEN"
+          ],
+          "anime": "SPY×FAMILY(第2クール)"
+        },
+        {
+          "title": "色彩",
+          "label": "エンディング",
+          "words": [
+            "くじら"
+          ],
+          "music": [
+            "くじら"
+          ],
+          "composer": [
+            "くじら"
+          ],
+          "singer": [
+            "yama"
+          ],
+          "anime": "SPY×FAMILY(第2クール)"
+        },
+        {
+          "title": "子守唄",
+          "label": "挿入歌",
+          "words": [
+            "遠藤達哉"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "ヨル・フォージャー(早見沙織)"
+          ],
+          "anime": "SPY×FAMILY(第2クール)"
+        },
+        {
+          "title": "GOOD DAY",
+          "label": "挿入歌",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "SPY×FAMILY(第2クール)"
+        }
+      ],
+      "staff": {
+        "3DCG監督": [
+          "今垣佳奈"
+        ],
+        "キャラクターデザイン": [
+          "嶋田和晃"
+        ],
+        "制作": [
+          "WIT STUDIO",
+          "CloverWorks"
+        ],
+        "副撮影監督": [
+          "佐久間悠也"
+        ],
+        "助監督": [
+          "片桐崇",
+          "高橋謙仁",
+          "原田孝宏"
+        ],
+        "原作": [
+          "遠藤達哉"
+        ],
+        "掲載誌": [
+          "少年ジャンプ＋(集英社)"
+        ],
+        "撮影監督": [
+          "伏原あかね"
+        ],
+        "監督・シリーズ構成": [
+          "古橋一浩"
+        ],
+        "総作画監督": [
+          "嶋田和晃",
+          "浅野恭司"
+        ],
+        "編集": [
+          "齋藤朱里"
+        ],
+        "美術監督": [
+          "永井一男",
+          "薄井久代"
+        ],
+        "美術設定": [
+          "谷内優穂",
+          "杉本智美",
+          "金平和茂"
+        ],
+        "色彩設計": [
+          "橋本賢"
+        ],
+        "製作": [
+          "「SPY×FAMILY」製作委員会"
+        ],
+        "音楽プロデュース": [
+          "(K)NoW_NAME"
+        ],
+        "音響効果": [
+          "出雲範子"
+        ],
+        "音響監督": [
+          "はたしょう二"
+        ]
+      },
+      "cast": {
+        "〈WISE局長〉": [
+          "大塚明夫"
+        ],
+        "〈ガーデン〉店長": [
+          "諏訪部順一"
+        ],
+        "〈東雲〉": [
+          "中村悠一"
+        ],
+        "アーニャ・フォージャー": [
+          "種﨑敦美"
+        ],
+        "エミール・エルマン": [
+          "佐藤はな"
+        ],
+        "カミラ": [
+          "庄司宇芽香"
+        ],
+        "シャロン": [
+          "熊谷海麗"
+        ],
+        "シルヴィア・シャーウッド": [
+          "甲斐田裕子"
+        ],
+        "ジョージ・グルーマン": [
+          "堀江瞬"
+        ],
+        "ダミアン・デズモンド": [
+          "藤原夏海"
+        ],
+        "ドミニク": [
+          "梶川翔平"
+        ],
+        "ナレーション": [
+          "松田健一郎"
+        ],
+        "ビル・ワトキンス": [
+          "安元洋貴"
+        ],
+        "フィオナ・フロスト": [
+          "佐倉綾音"
+        ],
+        "フランキー・フランクリン": [
+          "吉野裕行"
+        ],
+        "ヘンリー・ヘンダーソン": [
+          "山路和弘"
+        ],
+        "ベッキー・ブラックベル": [
+          "加藤英美里"
+        ],
+        "ボンド・フォージャー": [
+          "松田健一郎"
+        ],
+        "ミリー": [
+          "石見舞菜香"
+        ],
+        "ユーイン・エッジバーグ": [
+          "岡村明香"
+        ],
+        "ユーリ・ブライア": [
+          "小野賢章"
+        ],
+        "ヨル・フォージャー": [
+          "早見沙織"
+        ],
+        "ロイド・フォージャー": [
+          "江口拓也"
+        ]
+      }
+    },
+    {
+      "tid": 6591,
+      "title": "アイドリッシュセブン Vibrato",
+      "last_updated": "2023-01-30T08:05:13+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "DESTINY",
+          "label": "エンディング",
+          "words": [
+            "結城アイラ"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "TRIGGER(八乙女楽(羽多野渉)",
+            "九条天(斉藤壮馬)",
+            "十龍之介(佐藤拓也))"
+          ],
+          "anime": "アイドリッシュセブン Vibrato"
+        },
+        {
+          "title": "PARTY TIME TOGETHER",
+          "label": "エンディング",
+          "words": [
+            "結城アイラ"
+          ],
+          "music": [
+            "HIROTOMO",
+            "SI.V"
+          ],
+          "composer": [
+            "中土智博"
+          ],
+          "singer": [
+            "IDOLiSH7(七瀬陸(小野賢章)",
+            "和泉一織(増田俊樹)",
+            "二階堂大和(白井悠介)",
+            "和泉三月(代永翼)",
+            "四葉環(KENN)",
+            "逢坂壮五(阿部敦)",
+            "六弥ナギ(江口拓也))"
+          ],
+          "anime": "アイドリッシュセブン Vibrato"
+        },
+        {
+          "title": "DIAMOND FUSION",
+          "label": "挿入歌",
+          "words": [
+            "結城アイラ"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "TRIGGER(八乙女楽(羽多野渉)",
+            "九条天(斉藤壮馬)",
+            "十龍之介(佐藤拓也))"
+          ],
+          "anime": "アイドリッシュセブン Vibrato"
+        }
+      ],
+      "staff": {
+        "2Dデザイン": [
+          "高橋清太(FUETE)"
+        ],
+        "3Dワークス": [
+          "井口光隆"
+        ],
+        "CGディレクター": [
+          "ヨシダ.ミキ"
+        ],
+        "アニメーションキャラクターデザイン": [
+          "深川可純"
+        ],
+        "アニメーション制作": [
+          "TROYCA"
+        ],
+        "キャラクター原案": [
+          "種村有菜"
+        ],
+        "シリーズ構成": [
+          "関根アユミ"
+        ],
+        "スーパーバイザー": [
+          "あおきえい"
+        ],
+        "原作": [
+          "バンダイナムコオンライン",
+          "都志見文太"
+        ],
+        "撮影監督": [
+          "津田涼介"
+        ],
+        "監督": [
+          "別所誠人"
+        ],
+        "編集": [
+          "右山章太"
+        ],
+        "美術監督・美術設定": [
+          "高橋麻穂"
+        ],
+        "色彩設計": [
+          "篠原真理子"
+        ],
+        "製作": [
+          "バンダイナムコオンライン",
+          "バンダイビジュアル",
+          "ランティス"
+        ],
+        "音楽": [
+          "加藤達也"
+        ],
+        "音楽制作": [
+          "ランティス"
+        ],
+        "音響監督": [
+          "濱野高年"
+        ]
+      },
+      "cast": {
+        "七瀬陸": [
+          "小野賢章"
+        ],
+        "九条天": [
+          "斉藤壮馬"
+        ],
+        "二階堂大和": [
+          "白井悠介"
+        ],
+        "八乙女楽": [
+          "羽多野渉"
+        ],
+        "六弥ナギ": [
+          "江口拓也"
+        ],
+        "十龍之介": [
+          "佐藤拓也"
+        ],
+        "和泉一織": [
+          "増田俊樹"
+        ],
+        "和泉三月": [
+          "代永翼"
+        ],
+        "四葉環": [
+          "KENN"
+        ],
+        "大神万理": [
+          "興津和幸"
+        ],
+        "小鳥遊紡": [
+          "佐藤聡美"
+        ],
+        "逢坂壮五": [
+          "阿部敦"
+        ]
+      }
+    },
+    {
+      "tid": 6573,
+      "title": "The Legend of Heroes 閃の軌跡 Northern War",
+      "last_updated": "2023-01-30T09:07:08+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "The story so far",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "The Legend of Heroes 閃の軌跡 Northern War"
+        },
+        {
+          "title": "proud hero",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": null,
+          "anime": "The Legend of Heroes 閃の軌跡 Northern War"
+        }
+      ],
+      "staff": {
+        "Gディレクター": [
+          "乙部善弘"
+        ],
+        "アニメーションストーリー考証": [
+          "恵村まお"
+        ],
+        "アニメーション制作": [
+          "タツノコプロ"
+        ],
+        "オリジナルキャラクターデザイン": [
+          "原将治"
+        ],
+        "キャラクターデザイン": [
+          "大沢美奈"
+        ],
+        "サブキャラクターデザイン": [
+          "諏訪壮大"
+        ],
+        "シリーズ構成": [
+          "リョウガヒデキ",
+          "恵村まお"
+        ],
+        "プロップデザイン": [
+          "枝松聖",
+          "原由知",
+          "小川浩"
+        ],
+        "モニターグラフィックス・2Dデザイン": [
+          "齋藤睦"
+        ],
+        "原作・監修": [
+          "日本ファルコム"
+        ],
+        "撮影監督": [
+          "サイトウタカオ"
+        ],
+        "監督": [
+          "佐藤英一"
+        ],
+        "編集": [
+          "松原理恵"
+        ],
+        "美術デザイン": [
+          "平澤晃弘"
+        ],
+        "美術監督": [
+          "内藤健"
+        ],
+        "色彩設計": [
+          "村田恵里子"
+        ],
+        "製作": [
+          " 閃の軌跡NW製作委員会"
+        ],
+        "音楽": [
+          "伊藤翼"
+        ],
+        "音響監督": [
+          "濱野高年"
+        ]
+      },
+      "cast": {
+        "アルティナ・オライオン": [
+          "水瀬いのり"
+        ],
+        "イセリア・フロスト": [
+          "ブリドカット セーラ 恵美"
+        ],
+        "イバーノ": [
+          "福島潤"
+        ],
+        "グラーク・グロマッシュ": [
+          "壤晴彦"
+        ],
+        "ジェイナ・ストーム": [
+          "園崎未恵"
+        ],
+        "タック": [
+          "木島隆一"
+        ],
+        "タリオン・ドレイク": [
+          "小野友樹"
+        ],
+        "マーティン・S・ロビンソン": [
+          "中村悠一"
+        ],
+        "ラヴィアン・ウィンスレット": [
+          "小市眞琴"
+        ],
+        "リィン・シュバルツァー": [
+          "内山昂輝"
+        ],
+        "ローガン・ムガート": [
+          "近藤孝行"
+        ]
+      }
+    },
+    {
+      "tid": 5312,
+      "title": "ぐらぶるTVちゃんねるっ！",
+      "last_updated": "2023-01-30T09:31:15+09:00",
+      "episodes": null,
+      "songs": null,
+      "staff": {},
+      "cast": {
+        "MC": [
+          "小野友樹",
+          "加藤英美里"
+        ],
+        "ナレーター": [
+          "白石稔"
+        ],
+        "ルリア": [
+          "東山奈央"
+        ]
+      }
+    },
+    {
+      "tid": 6574,
+      "title": "便利屋斎藤さん、異世界に行く",
+      "last_updated": "2023-01-30T10:00:40+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "kaleidoscope",
+          "label": "オープニング",
+          "words": [
+            "Nanao"
+          ],
+          "music": [
+            "Nanao"
+          ],
+          "composer": [
+            "Nanao"
+          ],
+          "singer": [
+            "Teary Planet"
+          ],
+          "anime": "便利屋斎藤さん、異世界に行く"
+        },
+        {
+          "title": "ひだまりの彩度",
+          "label": "エンディング",
+          "words": [
+            "MIMI"
+          ],
+          "music": [
+            "MIMI"
+          ],
+          "composer": [
+            "MIMI"
+          ],
+          "singer": [
+            "konoco"
+          ],
+          "anime": "便利屋斎藤さん、異世界に行く"
+        }
+      ],
+      "staff": {
+        "アクション監修": [
+          "和田伸一"
+        ],
+        "アニメーション制作": [
+          "C2C"
+        ],
+        "キャラクターデザイン": [
+          "たなべようこ"
+        ],
+        "シリーズ構成・脚本": [
+          "猪原健太"
+        ],
+        "プロップデザイン": [
+          "永富浩司"
+        ],
+        "プロップ監修": [
+          "横山友紀"
+        ],
+        "モンスターデザイン": [
+          "長森佳容"
+        ],
+        "原作": [
+          "一智和智"
+        ],
+        "撮影監督": [
+          "村上展之"
+        ],
+        "文字デザイン": [
+          "横山友紀"
+        ],
+        "特殊効果": [
+          "村上宜隆",
+          "楊怡",
+          "久保田淳"
+        ],
+        "監修": [
+          "桝田省治"
+        ],
+        "監督": [
+          "窪岡俊之"
+        ],
+        "総作画監督": [
+          "たなべようこ",
+          "野田康行"
+        ],
+        "編集": [
+          "柳圭介"
+        ],
+        "美術監督": [
+          "柏村明香"
+        ],
+        "美術設定": [
+          "柴田千佳子"
+        ],
+        "色彩設計": [
+          "高木雅人"
+        ],
+        "製作": [
+          "「便利屋斎藤さん",
+          "異世界に行く」製作委員会"
+        ],
+        "音楽": [
+          "大隅知宇"
+        ],
+        "音響監督": [
+          "今泉雄一"
+        ]
+      },
+      "cast": {
+        "カインズ": [
+          "松岡禎丞"
+        ],
+        "キスルギ": [
+          "笠間淳"
+        ],
+        "ギブングル": [
+          "相馬康一"
+        ],
+        "ギーブル": [
+          "田所陽向"
+        ],
+        "サイトウ": [
+          "木村良平"
+        ],
+        "ニニア": [
+          "田所あずさ"
+        ],
+        "フランリル": [
+          "青木瑠璃子"
+        ],
+        "プリマス": [
+          "井澤詩織"
+        ],
+        "メヴェナ": [
+          "大橋彩香"
+        ],
+        "モンプイ": [
+          "本多力"
+        ],
+        "モーロック": [
+          "チョー"
+        ],
+        "ライチ": [
+          "芹澤優"
+        ],
+        "ラエルザ": [
+          "ファイルーズあい"
+        ],
+        "ラファンパン": [
+          "東山奈央"
+        ],
+        "ラーヴェラ": [
+          "斎藤千和"
+        ],
+        "リリーザ": [
+          "花守ゆみり"
+        ]
+      }
+    },
+    {
+      "tid": 6581,
+      "title": "もういっぽん！",
+      "last_updated": "2023-01-30T10:22:33+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "Stand By Me",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "Subway Daydream",
+            "坂本夏樹"
+          ],
+          "singer": [
+            "Subway Daydream"
+          ],
+          "anime": "もういっぽん！"
+        },
+        {
+          "title": "いっぽんみち",
+          "label": "エンディング",
+          "words": [
+            "大森祥子"
+          ],
+          "music": null,
+          "composer": null,
+          "singer": [
+            "青葉西高校柔道部(伊藤彩沙",
+            "安齋由香里",
+            "三浦千幸)"
+          ],
+          "anime": "もういっぽん！"
+        }
+      ],
+      "staff": {
+        "アニメーションプロデューサー": [
+          "大松裕"
+        ],
+        "アニメーション制作": [
+          "BAKKEN RECORD"
+        ],
+        "キャラクターデザイン": [
+          "武川愛里"
+        ],
+        "シリーズ構成": [
+          "皐月彩"
+        ],
+        "原作": [
+          "村岡ユウ"
+        ],
+        "掲載誌": [
+          "週刊少年チャンピオン(秋田書店)"
+        ],
+        "撮影監督": [
+          "小西庸平"
+        ],
+        "監督": [
+          "荻原健"
+        ],
+        "編集": [
+          "坂本雅紀"
+        ],
+        "美術監督": [
+          "西山正紀"
+        ],
+        "色彩設計": [
+          "のぼりはるこ"
+        ],
+        "音楽": [
+          "成田旬"
+        ],
+        "音楽制作": [
+          "ポニーキャニオン"
+        ],
+        "音響監督": [
+          "亀山俊樹"
+        ]
+      },
+      "cast": {
+        "南雲安奈": [
+          "稗田寧々"
+        ],
+        "園田未知": [
+          "伊藤彩沙"
+        ],
+        "夏目紫乃": [
+          "内山夕実"
+        ],
+        "姫野紬": [
+          "永瀬アンナ"
+        ],
+        "氷浦永遠": [
+          "三浦千幸"
+        ],
+        "滝川早苗": [
+          "安齋由香里"
+        ]
+      }
+    },
+    {
+      "tid": 6538,
+      "title": "虚構推理 Season2",
+      "last_updated": "2023-01-30T10:37:55+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "ヨトギバナシ",
+          "label": "オープニング",
+          "words": null,
+          "music": null,
+          "composer": [
+            "エンドウ."
+          ],
+          "singer": null,
+          "anime": "虚構推理 Season2"
+        },
+        {
+          "title": "Invincible Love",
+          "label": "エンディング",
+          "words": [
+            "Amon Hayashi"
+          ],
+          "music": [
+            "$ÜN(SUN)",
+            "Le`mon",
+            "NAOtheLAIZA"
+          ],
+          "composer": [
+            "NAOtheLAIZA"
+          ],
+          "singer": [
+            "宮野真守"
+          ],
+          "anime": "虚構推理 Season2"
+        }
+      ],
+      "staff": {
+        "2Dワークス・特殊効果": [
+          "徳丸仁志"
+        ],
+        "3DCG": [
+          "オダヨリノブ"
+        ],
+        "アニメーション制作": [
+          "ブレインズ・ベース"
+        ],
+        "キャラクターデザイン・総作画監督": [
+          "松本健太郎"
+        ],
+        "シリーズ構成": [
+          "高木登"
+        ],
+        "デザインワークス": [
+          "梶野靖弘"
+        ],
+        "制作": [
+          "NAS"
+        ],
+        "原作": [
+          "城平京(講談社タイガ)"
+        ],
+        "撮影監督": [
+          "関谷颯人"
+        ],
+        "漫画": [
+          "片瀬茶柴"
+        ],
+        "監督": [
+          "後藤圭二"
+        ],
+        "編集": [
+          "池田康隆"
+        ],
+        "美術監督": [
+          "諸熊倫子"
+        ],
+        "美術設定": [
+          "藤瀬智康"
+        ],
+        "色彩設計": [
+          "大塚奈津子"
+        ],
+        "色彩設計補佐": [
+          "菊地美穂子"
+        ],
+        "製作": [
+          "虚構推理2製作委員会"
+        ],
+        "音楽": [
+          "眞鍋昭大"
+        ],
+        "音楽制作": [
+          "キングレコード"
+        ],
+        "音響監督": [
+          "山田陽"
+        ]
+      },
+      "cast": {
+        "室井昌幸": [
+          "古川慎"
+        ],
+        "岩永琴子": [
+          "鬼頭明里"
+        ],
+        "桜川九郎": [
+          "宮野真守"
+        ],
+        "桜川六花": [
+          "佐古真弓"
+        ],
+        "狛犬(白)": [
+          "本山かおり"
+        ],
+        "狛犬(黒)": [
+          "塙真奈美"
+        ],
+        "雪女": [
+          "悠木碧"
+        ]
+      }
+    },
+    {
+      "tid": 6604,
+      "title": "KJファイル(第2期)",
+      "last_updated": "2023-01-30T11:45:30+09:00",
+      "episodes": null,
+      "songs": [
+        {
+          "title": "BBMonster",
+          "label": "エンディング",
+          "words": null,
+          "music": null,
+          "composer": null,
+          "singer": [
+            "かずき山盛り"
+          ],
+          "anime": "KJファイル(第2期)"
+        }
+      ],
+      "staff": {
+        "プロデューサー": [
+          "梅津智史",
+          "船田晃"
+        ],
+        "企画": [
+          "山川典夫",
+          "岩﨑拓矢"
+        ],
+        "作画": [
+          "西川伸司",
+          "岡本英郎",
+          "海老原優",
+          "飯塚貴士",
+          "古谷充子",
+          "jimmy",
+          "和田朋子",
+          "山川典夫"
+        ],
+        "制作": [
+          "ILCA",
+          "yell"
+        ],
+        "制作協力": [
+          "スタジオ・バックホーン",
+          "和風アニメーション"
+        ],
+        "演出": [
+          "船田晃"
+        ],
+        "脚本": [
+          "佐々木充郭",
+          "飯塚貴士"
+        ],
+        "製作": [
+          "「KJファイル」製作委員会"
+        ]
+      },
+      "cast": {
+        "ギレルモ・マルケス博士": [
+          "小林清志"
+        ],
+        "クレア・コールマン博士": [
+          "福森加織"
+        ],
+        "ケニー御子柴博士": [
+          "今井耕二"
+        ],
+        "ニキータ・タルコフスキー博士": [
+          "大下昌之"
+        ],
+        "ルル・ドゥ・ピカード博士": [
+          "奈日抽ねね"
+        ],
+        "小林丸兆治博士": [
+          "清川元夢"
+        ],
+        "海堂勇一郎事務局長": [
+          "二又一成"
+        ]
+      }
+    }
+  ]
+}
